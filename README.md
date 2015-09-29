@@ -1,2 +1,2 @@
 # Grinehailleti
-Baudon Florent / Barry Ismatou / Lhomme Nicolas - TP de Greent IT - Mesure de consommation de Raspberry Pi
+Baudon Florent / Barry Ismatou / Lhomme Nicolas - TP de Green IT - Mesure de consommation de Raspberry Pi
